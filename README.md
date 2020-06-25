@@ -4,3 +4,4 @@ simple readme file
 one more commmit
 random very bad update
 stashing again
+soft check
